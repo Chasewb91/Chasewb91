@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Chasewb91
-- 👀 I’m interested in sever management
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on discord bots :)
+- 👀 I’m interested in linux systems, server management, and productivity. 
+- 🌱 I’m currently learning Python, studying general IT at WGU, and figuring
+  out this thing called vim...
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ... chasewb91 @ icloud.com
 
 <!---
